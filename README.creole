@@ -1,0 +1,12 @@
+= Desktop Gadget
+
+The [[http://windows.microsoft.com/en-us/windows/gadgets|Windows Desktop Gadgets]] have some potential, but sadly the main principle in their design was beauty, not
+usabilility. As Desktop Gadgets are officially discontinued due to some vulnerabilities, I decided to write my own gadgets instead of installing some found on the web.
+
+This repository contains a collection of gadgets, each directory contains one gadget and the related files.
+
+Here are some gadgets I wrote.
+
+* **CPU Graph** - Displays CPU, memory and hard disk usage.
+
+These gadgets were intentionally kept short. For details see the [[http://feherke.github.io/javascript/gadget/|Gadget section of my site]].
